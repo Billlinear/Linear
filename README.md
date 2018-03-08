@@ -1,2 +1,3 @@
 # Linear
-Project info
+Project info.
+A Compnay app  that accesses website
